@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "cpprestsdk",
+    "fmt",
+    "opentelemetry-cpp",
+    "cpr"
+  ]
+}
